@@ -15,7 +15,7 @@ Führen Sie die folgenden Schritte aus, um eine Reihe von Zellen schnell in eine
 
 1. Wählen Sie **OK** aus.
 
-![Screenshot des Copilot-Bereichs in Excel beim ersten Öffnen.](../media/copilot-pane-Excel.png)
+![Screenshot des Copilot-Bereichs in Excel beim ersten Öffnen.](../media/copilot-pane-excel.png)
 
 ## Lassen Sie uns loslegen
 
