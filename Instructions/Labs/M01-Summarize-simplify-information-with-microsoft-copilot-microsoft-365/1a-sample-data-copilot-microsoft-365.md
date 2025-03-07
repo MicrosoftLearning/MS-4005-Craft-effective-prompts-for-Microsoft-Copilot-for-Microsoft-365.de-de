@@ -17,8 +17,14 @@ Führen Sie die folgenden Schritte aus, um alle erforderlichen Dateien auf **One
 3. Geben Sie in der Adressleiste `https://www.office.com` ein.
 4. Wählen Sie unter **Willkommen bei Microsoft 365** die Option **Anmelden** aus.
 5. Geben Sie beim **Sign-in Prompt** `userx@yourtenant.onmicrosoft.com` ein (Benutzername und Mandant von Ihrem Mandanten bereitgestellt) und wählen Sie **Weiter**.
+
+    [![Screenshot des Ressourcenbereichs in Skillable](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
+
 6. Geben Sie auf dem Bildschirm **Kennwort eingeben** das Kennwort (vom Mandanten-Anbieter) für das Benutzerkonto ein und wählen Sie dann **Anmelden** aus.
 7. Wenn Sie aufgefordert werden, **Angemeldet zu bleiben**, wählen Sie **Dies nicht mehr anzeigen** und dann **Ja**.
+
+    **Hinweis:** Wenn die Webseite nach dem Anmelden verschwommen angezeigt wird, aktualisieren Sie die Seite.
+
 8. In **Microsoft 365** wählen Sie **Apps**.
 9. Wählen Sie unter **Apps** **OneDrive** aus.
 10. Wählen Sie in **OneDrive** in der oberen linken Ecke **+** (neu hinzufügen) > **Datei hochladen**.
