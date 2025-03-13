@@ -1,3 +1,4 @@
+# Zusammenfassung
 
 In diesem Modul haben Sie erfahren, wie Sie effektive Prompts für Microsoft 365 Copilot erstellen, um Informationen in Microsoft-Dokumenten und -Dateien abzufragen. Sie haben auch mehr über Microsoft 365 Copilot und dessen verschiedenen Funktionen in verschiedenen Microsoft-Anwendungen erfahren. Es generiert Erkenntnisse und Vorschläge auf der Grundlage Ihrer Dateien, Dokumente, Chats und Besprechungen. Dieses Modul hat Sie mit dem Wissen und den Techniken ausgestattet, um Prompts zu erstellen, die genaue und hilfreiche Ergebnisse von Microsoft 365 Copilot liefern.
 

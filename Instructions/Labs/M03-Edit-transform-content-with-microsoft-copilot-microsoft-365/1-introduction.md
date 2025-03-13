@@ -1,6 +1,8 @@
+# Einführung
+
 In diesem Modul erfahren Sie, wie Sie effektive, kontextbezogene Prompts für Microsoft 365 Copilot erstellen, um Dokumente, Daten und Text in Microsoft 365-Apps zu **transformieren**. Wenn Sie Ihre Fähigkeiten zur Erstellung von Prompts für Copilot verbessern möchten, vermittelt Ihnen dieses Modul das Wissen und die Techniken zur Erstellung von Prompts, die genaue und hilfreiche Ergebnisse von Microsoft 365 Copilot liefern.
 
-Der Fokus dieses Moduls ist **das Bearbeiten**, **Transformieren** und **Umschreiben** von Informationen mithilfe von Copilot in Microsoft 365-Apps wie **Word**, **PowerPoint**, **Excel**, **Outlook** und anderen. Sie erfahren, wie Sie diese grundlegenden Transformationsfunktionen mithilfe von KI nutzen, aber auch, wie Sie einen effizienten Prompt erstellen, der alle Elemente enthält, um die gewünschten Ergebnisse zu erzielen.
+Der Schwerpunkt dieses Moduls liegt auf **Bearbeiten**, **Umwandeln** und **Umschreiben** von Informationen mit Copilot in verschiedenen Microsoft 365-Anwendungen wie **Word**, **PowerPoint**, **Excel**, **Outlook** und anderen. Sie erfahren, wie Sie diese grundlegenden Transformationsfunktionen mithilfe von KI nutzen, aber auch, wie Sie einen effizienten Prompt erstellen, der alle Elemente enthält, um die gewünschten Ergebnisse zu erzielen.
 
 > [!IMPORTANT]
 > Viele der in diesem Modul behandelten Funktionen von Copilot stehen nur Kundschaft mit einer Microsoft 365 Copilot-Lizenz oder Copilot Pro-Lizenz zur Verfügung. Die Strategien zur Erstellung besserer Prompts können jedoch bei jedem chatbasierten Large Language Model (LLM) angewendet werden.

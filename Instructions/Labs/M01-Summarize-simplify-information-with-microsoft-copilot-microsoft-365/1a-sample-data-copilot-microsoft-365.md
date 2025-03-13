@@ -1,14 +1,16 @@
+# Übung – Verwendung von Beispieldaten mit Microsoft 365 Copilot
+
 In diesem Modul erstellen wir Prompts für Microsoft 365 Copilot, die auf die folgenden Dateien verweisen:
 
 - [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
-- [Contoso Chai Tea Market Trends 2023.xlsx](https://go.microsoft.com/fwlink/?linkid=2268822)
-- [Contoso Chai Tea Market Trends 2023.docx](https://go.microsoft.com/fwlink/?linkid=2269122)
-- [Market Trend Report - Protein Shake.docx](https://go.microsoft.com/fwlink/?linkid=2268827)
+- [Contoso Chai Tea market trends 2023.xlsx](https://go.microsoft.com/fwlink/?linkid=2268822)
+- [Contoso Chai Tea market trends 2023.docx](https://go.microsoft.com/fwlink/?linkid=2269122)
+- [Market Trend Report- Protein shake.docx](https://go.microsoft.com/fwlink/?linkid=2268827)
 - [Mystic Spice Premium Chai Market Analysis Presentation.pptx](https://go.microsoft.com/fwlink/?linkid=2268768)
 
 **Hinweis**: Dies sind die Dateien, auf die wir im gesamten Modul verweisen. Für dieses Lab werden wir jedoch zunächst alle Dateien auf **OneDrive** hochladen, um sicherzustellen, dass sie später für Prompts von Copilot zugänglich sind.
 
-### Hochladen von Dateien in OneDrive
+## Hochladen von Dateien in OneDrive
 
 Führen Sie die folgenden Schritte aus, um alle erforderlichen Dateien auf **OneDrive** hochzuladen:
 
@@ -33,11 +35,11 @@ Führen Sie die folgenden Schritte aus, um alle erforderlichen Dateien auf **One
 13. Wenn der Upload abgeschlossen ist, sollten Sie unten in der Mitte des Bildschirms **29 Elemente in Meine Dateien hochgeladen** sehen.
 14. Lassen Sie **Edge** geöffnet und gehen Sie zur nächsten Aufgabe über.
 
-### Verweisen auf Dateien in Copilot
+### Verweisen auf Dateien
 
-Wenn Sie Copilot verwenden, stellen Sie möglicherweise fest, dass einige Dateien in den Vorschlägen nicht sofort verfügbar sind. Dies liegt daran, dass bestimmte Copilot-Erfahrungen nur auf Dateien aus der **Zuletzt verwendet (MRU)**-Liste verweisen, während Sie bei anderen **OneDrive** direkt durchsuchen können. Um sicherzustellen, dass eine Datei in der **MRU**-Liste angezeigt wird, öffnen Sie sie einfach in der entsprechenden Microsoft 365-App, und sie wird automatisch hinzugefügt.
+Wenn Sie auf Dateien von Copilot verweisen, stellen Sie möglicherweise fest, dass Sie einige Dateien aus den Vorschlägen, die Ihnen zur Verfügung gestellt werden, nicht finden können. Dies passiert manchmal, weil bestimmte Erfahrungen mit Copilot nur auf Dateien aus der Liste der zuletzt verwendeten Dateien (MRU) verweisen, während andere es Ihnen ermöglichen, OneDrive zu durchsuchen, um Ihre Datei zu finden. Das Hinzufügen zu dieser Liste ist so einfach wie das Öffnen in der entsprechenden Microsoft 365-App.  Nachdem sie geöffnet wurden, sollten sie in der MRU-Liste angezeigt werden.
 
 > [!IMPORTANT]
-> Microsoft 365 Copilot kann nur mit Dateien arbeiten, die auf **OneDrive** gespeichert sind. Dateien, die lokal auf Ihrem PC gespeichert sind, müssen auf **OneDrive** für Copilot verschoben werden, um darauf zuzugreifen.
+> Microsoft 365 Copilot funktioniert nur mit Dateien, die auf OneDrive gespeichert sind. Wenn Dateien lokal auf Ihrem PC gespeichert sind, müssen Sie diese auf OneDrive verschieben, um Copilot zu aktivieren.
 
-Im Laufe des Moduls haben Sie die Möglichkeit, verschiedene Prompts für diese Dateien auszuprobieren. Sie können mit verschiedenen Ansätzen experimentieren, um Ihre Fähigkeiten mit Copilot zu verbessern.
+Im Laufe des Moduls haben Sie die Möglichkeit, andere Prompts mit diesen Dateien auszuprobieren, und wir empfehlen Ihnen, dies zu tun, um Ihre Prompting-Fähigkeiten zu erforschen und zu verbessern.

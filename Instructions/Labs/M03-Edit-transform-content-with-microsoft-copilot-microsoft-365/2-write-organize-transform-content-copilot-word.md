@@ -1,3 +1,4 @@
+# Schreiben, Organisieren und Transformieren von Inhalten mithilfe von Microsoft 365 Copilot in Word
 
 Mit dem Microsoft 365 Copilot in Word können Sie beim Verfassen neuer Inhalte im Flow bleiben und Ihre Inhalte umgestalten, sobald Sie Ihre Ideen aufgeschrieben haben. Copilot kann Ihren Text umschreiben und sogar den Ton der Texte anpassen. Copilot wandelt Ihren Text nach Bedarf auch in eine bearbeitbare Tabelle um. Transformieren Sie Inhalte in Word mit folgenden Schritten:
 
@@ -13,7 +14,7 @@ Mit dem Microsoft 365 Copilot in Word können Sie beim Verfassen neuer Inhalte i
 
 1. Wählen Sie **Ersetzen** aus, um den überarbeiteten Text zu verwenden, **Unten einfügen**, um den neu geschriebenen Text unter dem aktuellen Text einzufügen, **Neu generieren**, um die Vorschläge von Copilot neu zu generieren, oder **Ton anpassen**, um den neu geschriebenen Text an den gewünschten Tonfall anzupassen.
 
-    ![Screenshot von Copilot in Word mit Umschreiben von Textvorschlägen und -optionen.](../media/copilot-rewrite-word.png)
+    ![Screenshot von Copilot in Word mit Umschreiben von Textvorschlägen und -optionen.](../media/edit_copilot-rewrite-word.png)
 
 ## Text in Tabelle
 
@@ -31,7 +32,7 @@ Mit dem Microsoft 365 Copilot in Word können Sie beim Verfassen neuer Inhalte i
 
     1. Mit dem Eingabefeld von Copilot kann die Formatierung einer Tabelle nicht geändert werden. Sie kann mit den Tabellenoptionen im Word-Menüband geändert werden.
 
-    ![Screenshot von Copilot in Word mit dem Text zur Tabellenfunktion.](../media/copilot-visualize-table-word.png)
+    ![Screenshot von Copilot in Word mit dem Text zur Tabellenfunktion.](../media/edit_copilot-visualize-table-word.png)
 
 Im folgenden Beispiel beginnen wir mit einem einfachen Prompt, um Text in eine Tabelle umzuwandeln und fügen dabei Elemente hinzu. Folgen Sie dem Beispiel mit Ihren eigenen Daten.
 
@@ -48,23 +49,23 @@ Laden Sie zunächst **_[Graphic Design Institute - Employee Benefits.docx](https
 
 In diesem einfachen Prompt beginnen Sie mit dem grundlegenden **Ziel**, _Text in eine Tabelle umzuwandeln._ Es gibt jedoch keine Hinweise darauf, welche Informationen Sie in der Tabelle haben möchten oder warum es eine Tabelle sein sollte.
 
-[![Screenshot von Copilot in Word bei der Umwandlung von Text in eine Tabelle.](../media/copilot-visualize-table-word-example.png)](../media/copilot-visualize-table-word-example.png#lightbox)
+![Screenshot von Copilot in Word bei der Umwandlung von Text in eine Tabelle.](../media/edit_copilot-visualize-table-word-example.png)
 
 | Element | Beispiel |
 | :------ | :------- |
-| Einfacher Prompt: <br>Beginnen Sie mit einem **Ziel** | **_Visualisiere sie als Tabelle._** |
-| Guter Prompt: <br>**Kontext** hinzufügen | Durch Hinzufügen von **Kontext** kann Copilot verstehen, welche Art von Daten angezeigt werden sollen und wofür sie verwendet werden.<br><br>_Wir möchten diese Vorteile potenziellen Mitarbeitenden verdeutlichen und mitteilen._ |
-| Besserer Prompt: <br>**Quelle(n)** angeben | Die **Quelle** in diesem Beispiel ist der gesamte Text von **Graphic Design Institute - Employee Benefits.docx**. |
-| Besserer Prompt: <br>Klare **Erwartungen** festlegen | Schließlich kann das Hinzufügen von **Erwartungen** Copilot dabei helfen, zu verstehen, wie Sie die Tabelle organisiert und geschrieben haben möchten.<br><br>„_Füge eine dritte Spalte hinzu, die den Nutzen für die Mitarbeitenden eindeutig beschreibt und wie sich diese Vorteile auf ihr Wohlbefinden auswirken._“ |
+| **Grundlegender Prompt:** Beginnen Sie mit einem **Ziel** | **_Visualisiere sie als Tabelle._** |
+| **Guter Prompt:** Hinzufügen von **Kontext** | Durch Hinzufügen von **Kontext** kann Copilot verstehen, welche Art von Daten angezeigt werden sollen und wofür sie verwendet werden. _„Wir möchten diese Vorteile potenziellen Mitarbeitenden verdeutlichen und mitteilen.“_ |
+| **Besserer Prompt:** Angabe von **Quelle(n)** | Die **Quelle** in diesem Beispiel ist der gesamte Text von **Graphic Design Institute - Employee Benefits.docx**. |
+| **Bester Prompt:** Festlegen von **Erwartungen** | Schließlich kann das Hinzufügen von **Erwartungen** Copilot dabei helfen, zu verstehen, wie Sie die Tabelle organisiert und geschrieben haben möchten. _„Füge eine dritte Spalte hinzu, die den Nutzen für die Mitarbeitenden eindeutig beschreibt und wie sich diese Vorteile auf ihr Wohlbefinden auswirken.“_ |
 
 > [!NOTE]
 > **Gestaltete Eingabeaufforderung:**
 >
 > _Visualisiere es als Tabelle. Wir müssen diese Vorteile potenziellen Mitarbeitenden auf klare Weise vermitteln. Füge eine dritte Spalte hinzu, die den Nutzen für die Mitarbeitenden eindeutig beschreibt und wie sich diese Vorteile auf ihr Wohlbefinden auswirken._
 
-[![Screenshot der erstellten Prompt-Ergebnisse anhand des Beispieldokuments mit Copilot in Word.](../media/copilot-visualize-table-word-results.png)](../media/copilot-visualize-table-word-results.png#lightbox)
+![Screenshot der erstellten Prompt-Ergebnisse anhand des Beispieldokuments mit Copilot in Word.](../media/edit_copilot-visualize-table-word-results.png)
 
 Dieser Prompt gibt Copilot alles, was benötigt wird, um eine gute Antwort zu finden, einschließlich **Ziel**, **Kontext**, **Quelle** und **Erwartungen**.
 
-> [!Important]
+> [!IMPORTANT]
 > Diese Funktion steht Kundschaft mit einer Microsoft 365 Copilot-Lizenz oder Copilot Pro-Lizenz zur Verfügung. Weitere Informationen finden Sie unter [Transformieren Ihrer Inhalte mit Copilot in Word](https://support.microsoft.com/office/transform-your-content-with-copilot-in-word-923d9763-f896-4da7-8a3f-5b12c3bfc475).

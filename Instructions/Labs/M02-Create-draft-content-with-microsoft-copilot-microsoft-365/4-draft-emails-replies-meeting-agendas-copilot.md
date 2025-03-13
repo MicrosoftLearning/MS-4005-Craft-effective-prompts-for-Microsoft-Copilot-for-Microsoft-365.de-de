@@ -1,3 +1,5 @@
+# Entwerfen von E-Mails, Antworten und Agenden für Besprechungen mit Microsoft 365 Copilot in Outlook
+
 Copilot in Outlook erleichtert die Posteingangsverwaltung mit KI-gesteuerter Unterstützung, damit Sie E-Mails schnell schreiben und lange E-Mail-Threads in kurze Zusammenfassungen umwandeln können. Es kombiniert die Leistungsfähigkeit großer Sprachmodelle (LLMs) mit Outlook-Daten, damit Sie am Arbeitsplatz produktiv bleiben können. Es fasst E-Mail-Threads (auch als Unterhaltungen bezeichnet) zusammenfassen und extrahiert wichtige Punkte aus mehreren Nachrichten.
 
 > [!NOTE]
@@ -11,13 +13,13 @@ Mit der Unterstützung von Copilot in Outlook erstellen Sie schnell eine E-Mail 
 
 1. Wählen Sie im Dropdown-Menü **iEntwurf mit Copilot** aus.
 
-    ![Screenshot des Copilot-Symbols in der Outlook-Symbolleiste.](../media/copilot-toolbar-outlook.png)
+    ![Screenshot des Copilot-Symbols in der Outlook-Symbolleiste.](../media/create_copilot-toolbar-outlook.png)
 
 1. Geben Sie in das Copilot-Feld **Ihren Prompt** ein.
 
 1. Wählen Sie **Optionen erstellen** aus, um die gewünschte Länge und den gewünschten Ton auszuwählen.
 
-    ![Screenshot der verfügbaren Optionen zum Anpassen Ihres Entwurfs in Copilot in Outlook.](../media/copilot-generate-options-outlook.png)
+    ![Screenshot der verfügbaren Optionen zum Anpassen Ihres Entwurfs in Copilot in Outlook.](../media/create_copilot-generate-options-outlook.png)
 
 1. Wählen Sie abschließend **Erstellen** aus. Copilot erstellt eine Nachricht für Sie.
 
@@ -29,7 +31,7 @@ Mit der Unterstützung von Copilot in Outlook erstellen Sie schnell eine E-Mail 
 
 1. Bearbeiten Sie den Entwurf nach Bedarf, und wählen Sie anschließend **Senden** aus.
 
-    ![Screenshot eines E-Mail-Entwurfs, der von Copilot in Outlook erstellt wurde.](../media/copilot-draft-results-outlook.png)
+    ![Screenshot eines E-Mail-Entwurfs, der von Copilot in Outlook erstellt wurde.](../media/create_copilot-draft-results-outlook.png)
 
 ## Lassen Sie uns loslegen
 
@@ -42,17 +44,17 @@ In diesem einfachen Prompt beginnen Sie mit dem grundlegenden **Ziel**, _eine ne
 
 | Element | Beispiel |
 | :------ | :------- |
-| Einfacher Prompt: <br>Beginnen Sie mit einem **Ziel** | **_Entwirf eine neue E-Mail._** |
-| Guter Prompt: <br>**Kontext** hinzufügen | Durch Hinzufügen von **Kontext** kann Copilot besser verstehen, worum es in der E-Mail gehen soll und wer die Zielgruppe ist.<br><br>„_... an meinen Kunden Allan Deyoung bezüglich des Status des Supporttickets._“ |
-| Besserer Prompt: <br>**Quelle(n)** angeben | Das Hinzufügen von **Quellen** kann Copilot dabei helfen, nach bestimmten Informationen zu suchen.<br><br>„_... Durchsuche meine E-Mails nach den neuesten Informationen zu Ticket Nr. 1928374655. _“ |
-| Besserer Prompt: <br>Klare **Erwartungen** festlegen | Schließlich kann Copilot beim Hinzufügen von **Erwartungen** helfen, zu verstehen, wie das Dokument geschrieben und formatiert werden soll.<br><br>„_Die E-Mail sollte einen professionellen und technischen Eindruck machen, aber mit Empathie geschrieben sein._“ |
+| **Grundlegender Prompt:** Beginnen Sie mit einem **Ziel** | **_Entwirf eine neue E-Mail._** |
+| **Guter Prompt:** Hinzufügen von **Kontext** | Durch Hinzufügen von **Kontext** kann Copilot besser verstehen, worum es in der E-Mail gehen soll und wer die Zielgruppe ist. _„... an meinen Kunden Allan Deyoung bezüglich des Status des Supporttickets.“_ |
+| **Besserer Prompt:** Angabe von **Quelle(n)** | Durch das Hinzufügen von **Quellen** kann Copilot wissen, wo nach bestimmten Informationen gesucht werden soll. _„Siehe das neueste Update aus meinen Notizen: Das Problem wurde an den Support der Stufe 2 weitergeleitet und eine Lösung wird innerhalb von 48 Stunden erwartet.“_ |
+| **Bester Prompt:** Festlegen von **Erwartungen** | Schließlich kann Copilot beim Hinzufügen von **Erwartungen** helfen, zu verstehen, wie das Dokument geschrieben und formatiert werden soll. _„Die E-Mail sollte einen professionellen und technischen Eindruck machen, aber mit Empathie geschrieben sein.“_ |
 
 > [!NOTE]
 > **Gestaltete Eingabeaufforderung:**
 >
-> _Entwerfe eine neue E-Mail an meinen Kunden Allan Deyoung bezüglich des Status des Supporttickets. Durchsuche meine E-Mails nach den neuesten Informationen zu Ticket Nr. 1928374655. Die E-Mail sollte einen professionellen und technischen Eindruck machen, aber mit Empathie geschrieben sein._
+> _Entwerfe eine neue E-Mail an meinen Kunden, Allan Deyoung, bezüglich des Status des Supporttickets. Beziehe dich auf das neueste Update aus meinen Notizen: Das Problem wurde an den Support der Stufe 2 weitergeleitet und eine Lösung wird innerhalb von 48 Stunden erwartet. Die E-Mail sollte einen professionellen und technischen Eindruck machen, aber mit Empathie geschrieben sein._
 
-In diesem Prompt hat Copilot alle Informationen, die benötigt werden, um Ihnen eine solide Antwort zu geben, dank des **Ziels**, des **Kontexts**, der **Quelle** und der **Erwartungen** in diesem Prompt. 
+In diesem Prompt hat Copilot alle Informationen, die benötigt werden, um Ihnen eine solide Antwort zu geben, dank des **Ziels**, des **Kontexts**, der **Quelle** und der **Erwartungen** in diesem Prompt.
 
 > [!IMPORTANT]
 > Copilot in Outlook unterstützt derzeit nur Arbeits- oder Schulkonten sowie Microsoft-Konten mit den E-Mail-Adressen outlook.com, hotmail.com, live.com und msn.com. Jedes Microsoft-Konto, das ein Konto eines Drittanbieters für E-Mail-Dienste wie Gmail, Yahoo oder iCloud verwendet, kann weiterhin Outlook verwenden, hat jedoch keinen Zugriff auf die Copilot-Funktionen in Outlook. Weitere Informationen finden Sie unter [Entwerfen einer E-Mail-Nachricht mit Copilot in Outlook](https://support.microsoft.com/office/draft-an-email-message-with-copilot-in-outlook-3eb1d053-89b8-491c-8a6e-746015238d9b).

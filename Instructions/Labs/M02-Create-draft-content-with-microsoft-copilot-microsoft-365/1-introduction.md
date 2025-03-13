@@ -1,6 +1,8 @@
+# Einführung
+
 In diesem Modul erfahren Sie, wie Sie effektive, kontextbezogene Prompts für Microsoft 365 Copilot erstellen, um Informationen in Microsoft 365-Apps **zu erstellen**. Wenn Sie Ihre Prompting-Fähigkeiten für Copilot verbessern möchten, vermittelt Ihnen dieses Modul das Wissen und die Techniken, um Prompts zu erstellen, die genaue und hilfreiche Ergebnisse aus Microsoft 365 Copilot liefern.
 
-Der Schwerpunkt dieses Moduls ist **das Konzipieren**, **Entwerfen** und **Erstellen** von Informationen mithilfe von Microsoft 365 Copilot-Apps wie **Word**, **PowerPoint**, **Teams**, **Outlook** und anderen. Sie erfahren, wie Sie diese grundlegenden Erstellungsfunktionen nutzen, aber auch, wie Sie einen effizienten Prompt erstellen, der alle Elemente enthält, um die gewünschten Ergebnisse zu erzielen.
+Der Schwerpunkt dieses Moduls liegt auf dem **Entwerfen**, **Erstellen** und **Erstellen** von Informationen mit Microsoft 365 Copilot in verschiedenen Microsoft 365-Apps wie **Word**, **PowerPoint**, **Teams**, **Outlook** und anderen. Sie erfahren, wie Sie diese grundlegenden Erstellungsfunktionen nutzen, aber auch, wie Sie einen effizienten Prompt erstellen, der alle Elemente enthält, um die gewünschten Ergebnisse zu erzielen.
 
 > [!IMPORTANT]
 > Viele der in diesem Modul behandelten Funktionen von Copilot stehen nur Kundschaft mit einer Microsoft 365 Copilot-Lizenz oder Copilot Pro-Lizenz zur Verfügung. Die Strategien zur Erstellung besserer Prompts können jedoch bei jedem chatbasierten Large Language Model (LLM) angewendet werden.

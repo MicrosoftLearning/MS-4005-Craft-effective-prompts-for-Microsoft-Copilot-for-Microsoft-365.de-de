@@ -1,7 +1,8 @@
+# Entwürfe von Anschreiben, Marketingplänen und Gliederungen mit Microsoft 365 Copilot in Word
 
 Um Microsoft 365 Copilot in Word zu verwenden, können Sie den Bereich **Copilot** öffnen, indem Sie das Copilot-Symbol in der Registerkarte **Startseite** des Menübands auswählen, oder direkt im Dokument mit dem Schreiben beginnen.
 
-![Screenshot des Copilot-Symbols im Word-Menüband.](../media/copilot-ribbon-word.png)
+![Screenshot des Copilot-Symbols im Word-Menüband.](../media/create_copilot-ribbon-word.png)
 
 So beginnen Sie mit dem Entwurf im Textkörper des Dokuments:
 
@@ -13,7 +14,7 @@ So beginnen Sie mit dem Entwurf im Textkörper des Dokuments:
 
 Sobald Copilot den Inhalt generiert hat, wählen Sie **Beibehalten** aus, um den Inhalt zu behalten, **Neu generieren**, um eine Antwort neu zu generieren, **Verwerfen**, um den Inhalt zu verwerfen, oder nehmen Sie eine Feinabstimmung des Entwurfs vor, indem Sie Details in das Eingabefeld eingeben, wie z. B. „_Kürzer formulieren_“.
 
-![Screenshot der Optionsleiste nach der Verwendung von Entwurf mit Copilot in Word.](../media/copilot-prompt-box-word.png)
+![Screenshot der Optionsleiste nach der Verwendung von Entwurf mit Copilot in Word.](../media/create_copilot-prompt-box-word.png)
 
 Im folgenden Beispiel wandeln wir einen einfachen Prompt für Copilot in Word in einen gut strukturierten, kontextbezogenen Prompt um, der Ihnen genau das bietet, was Sie brauchen, und zwar genau so, wie Sie es brauchen.
 
@@ -32,21 +33,19 @@ Bei diesem einfachen Prompt beginnen Sie mit dem grundlegenden **Ziel**: _einen 
 
 | Element | Beispiel |
 | :------ | :------- |
-| Einfacher Prompt: <br>Beginnen Sie mit einem **Ziel** | **_Entwerfe einen Marketingvorschlag._** |
-| Guter Prompt: <br>**Kontext** hinzufügen | Durch Hinzufügen von **Kontext** kann Copilot besser verstehen, welche Art von Dokument Sie erstellen möchten und wofür es verwendet werden soll.<br><br>„_... für das neueste Produkt von Contoso: CipherGuard. Wir müssen drei Ideen für eine Marketingkampagne entwickeln ..._“ |
-| Besserer Prompt: <br>**Quelle(n)** angeben | Das Hinzufügen von **Quellen** kann Copilot dabei helfen, nach bestimmten Informationen zu suchen.<br><br>„_... unter Verwendung der Produktspezifikationen und Anforderungen._“ |
-| Besserer Prompt: <br>Klare **Erwartungen** festlegen | Schließlich kann Copilot beim Hinzufügen von **Erwartungen** helfen, zu verstehen, wie das Dokument geschrieben und formatiert werden soll.<br><br>„_Bitte füge eine kurze Übersicht über das Produkt, die Vor- und Nachteile jeder Idee und die ROI-Prognose bei. Bitte beschränke das Dokument auf zwei Seiten und verwende eine optimistische und überzeugende Sprache._“ |
+| **Grundlegender Prompt:** Beginnen Sie mit einem **Ziel** | **_Entwerfe einen Marketingvorschlag._** |
+| **Guter Prompt:** Hinzufügen von **Kontext** | Durch Hinzufügen von **Kontext** kann Copilot besser verstehen, welche Art von Dokument Sie erstellen möchten und wofür es verwendet werden soll. _„… für das neueste Produkt von Contoso: CipherGuard. Wir müssen drei Ideen für eine Marketingkampagne entwickeln …“_ |
+| **Besserer Prompt:** Angabe von **Quelle(n)** | Durch das Hinzufügen von **Quellen** kann Copilot wissen, wo nach bestimmten Informationen gesucht werden soll. _„... unter Verwendung der Produktspezifikationen und Anforderungen.“_ |
+| **Bester Prompt:** Festlegen von **Erwartungen** | Schließlich kann Copilot beim Hinzufügen von **Erwartungen** helfen, zu verstehen, wie das Dokument geschrieben und formatiert werden soll. _„Bitte füge eine kurze Übersicht über das Produkt, die Vor- und Nachteile jeder Idee und die ROI-Prognose bei. Bitte beschränke das Dokument auf zwei Seiten und verwende eine optimistische und überzeugende Sprache.“_ |
 
 > [!NOTE]
 > **Gestaltete Eingabeaufforderung:**
 >
 > _Entwerfe einen Marketingvorschlag für das neueste Produkt von Contoso: CipherGuard. Wir müssen drei Ideen für eine Marketingkampagne unter Verwendung der Produktspezifikationen und -anforderungen generieren. Bitte füge eine kurze Übersicht über das Produkt, die Vor- und Nachteile jeder Idee und die ROI-Prognose bei. Bitte beschränke das Dokument auf zwei Seiten und verwende eine optimistische und überzeugende Sprache._
 
-[![Screenshot der erstellten Prompt-Ergebnisse anhand des Beispieldokuments mit Copilot in Word.](../media/copilot-draft-results-word.png)](../media/copilot-draft-results-word.png#lightbox)
-
 Überprüfen Sie die Ergebnisse Ihres Prompts und gehen Sie bei Fragen oder Verbesserungen darauf ein. Fügen Sie sie dann am Ende des Dokuments in einem neuen Abschnitt hinzu. **Speichern Sie** die Datei, damit sie später verwendet werden kann.
 
-Dieser Prompt gibt Copilot alles, was benötigt wird, um eine gute Antwort zu finden, einschließlich **Ziel**, **Kontext**, **Quelle** und **Erwartungen**. 
+Dieser Prompt gibt Copilot alles, was benötigt wird, um eine gute Antwort zu finden, einschließlich **Ziel**, **Kontext**, **Quelle** und **Erwartungen**.
 
 ### Verweisen auf Quellen
 
