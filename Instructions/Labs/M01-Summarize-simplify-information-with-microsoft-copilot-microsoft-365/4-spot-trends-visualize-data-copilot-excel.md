@@ -1,11 +1,17 @@
+# Erkennen von Trends und Visualisieren von Daten mit Copilot in Excel
 
-Microsoft 365 Copilot in Excel unterstützt Sie bei der Arbeit mit Daten in Excel-Tabellen. Sie können mit Microsoft Copilot Formelspaltenvorschläge erstellen, Erkenntnisse in Diagramme und PivotTables anzeigen und interessante Datenabschnitte hervorheben. 
+Microsoft 365 Copilot in Excel unterstützt Sie bei der Arbeit mit Daten in Excel-Tabellen. Sie können mit Microsoft Copilot Formelspaltenvorschläge erstellen, Erkenntnisse in Diagramme und PivotTables anzeigen und interessante Datenabschnitte hervorheben.
 
-Wählen Sie in Excel **Copilot**  im Menüband aus, um den Chatbereich zu öffnen. Sie müssen eine **Excel-Tabelle**  haben mit Daten in einem Arbeitsblatt, bevor Sie Copilot verwenden können. 
+Wählen Sie in Excel **Copilot**  im Menüband aus, um den Chatbereich zu öffnen.
 
-![Screenshot des Copilot-Symbols im Excel-Menüband.](../media/copilot-ribbon-excel.png)
+![Screenshot des Copilot-Symbols im Excel-Menüband.](../media/summarize_copilot-ribbon-excel.png)
 
-Führen Sie die folgenden Schritte aus, um eine Reihe von Zellen schnell in eine Excel-Tabelle umzuwandeln: 
+Um Copilot in Excel zu verwenden, müssen Ihre Daten auf eine der folgenden Arten formatiert werden:
+
+- Als Excel-Tabelle
+- Als Unterstützungsbereich
+
+Sie können eine Tabelle erstellen oder einen Zellbereich in eine Tabelle umwandeln, wenn Sie über einen Datenbereich verfügen. Gehen Sie dazu wie folgt vor:
 
 1. Markieren Sie die Zelle oder den Bereich in den Daten.
 
@@ -15,7 +21,20 @@ Führen Sie die folgenden Schritte aus, um eine Reihe von Zellen schnell in eine
 
 1. Wählen Sie **OK** aus.
 
-![Screenshot des Copilot-Bereichs in Excel beim ersten Öffnen.](../media/copilot-pane-excel.png)
+Wenn Sie Ihre Daten lieber in einem Bereich aufbewahren und nicht in eine Tabelle konvertieren möchten, muss sie alle folgenden Anforderungen erfüllen:
+
+- Nur eine Kopfzeile
+- Die Kopfzeilen sollten sich nur in Spalten befinden, nicht in Zeilen
+- Kopfzeilen sollten eindeutig sein, keine doppelten Kopfzeilen
+- Keine leeren Kopfzeilen
+- Daten sollten auf konsistente Weise formatiert werden
+- Keine Teilergebnisse
+- Keine leeren Zeilen oder Spalten
+- Keine verbundenen Zellen
+
+Im folgenden Beispiel beginnen wir mit einer grundlegenden Anfrage zur Analyse einer Tabelle und fügen nach und nach Elemente hinzu, um den Prompt robuster zu machen.
+
+![Screenshot des Copilot-Bereichs in Excel beim ersten Öffnen.](../media/summarize_copilot-pane-excel.png)
 
 ## Lassen Sie uns loslegen
 
@@ -32,17 +51,15 @@ In dieser einfachen Eingabeaufforderung beginnen Sie mit dem grundlegenden **Zie
 
 | Element | Beispiel |
 | :------ | :------- |
-| Einfacher Prompt: <br>Beginnen Sie mit einem **Ziel** | **Analysiere diese Tabelle in Excel.** |
-| Guter Prompt: <br>**Kontext** hinzufügen | Das Hinzufügen von **Kontext** kann Copilot dabei helfen, den Zweck der Analyse zu verstehen und die Antwort entsprechend anzupassen.<br><br>„_Wir suchen nach den meistverkauften Produkten von Mai bis August, um unsere Marketingstrategie für das nächste Jahr festzulegen._“ |
-| Besserer Prompt: <br>**Quelle(n)** angeben | Das Hinzufügen von **Quellen** kann Copilot helfen, den Bereich einzugrenzen, indem Sie bestimmte Informationen oder Bereiche verwenden.<br><br>„_... von Mai bis August ..._“ |
-| Besserer Prompt: <br>Klare **Erwartungen** festlegen | Schließlich kann das Hinzufügen von **Erwartungen** Copilot dabei helfen, zu verstehen, wie die Zusammenfassung gestaltet werden soll und wie detailliert sie sein muss.<br><br>„_Bitte hebe das meistverkaufte Produkt des Monats hervor._“ |
+| **Grundlegender Prompt:** Beginnen Sie mit einem **Ziel** | **Analysiere diese Tabelle in Excel.** |
+| **Guter Prompt:** Hinzufügen von **Kontext** | Das Hinzufügen von **Kontext** kann Copilot dabei helfen, den Zweck der Analyse zu verstehen und die Antwort entsprechend anzupassen. _„Wir suchen die meistverkauften Produkte von Mai bis August für den Verkauf von traditionell hergestelltem oder vorgefertigtem Chai.“_ |
+| **Besserer Prompt:** Angabe von **Quelle(n)** | Das Hinzufügen von **Quellen** kann Copilot helfen, den Bereich einzugrenzen, indem Sie bestimmte Informationen oder Bereiche verwenden. _„… von Mai bis August für den Verkauf von traditionell hergestelltem oder vorgefertigtem Chai.“_ |
+| **Bester Prompt:** Festlegen von **Erwartungen** | Schließlich kann das Hinzufügen von **Erwartungen** Copilot dabei helfen, zu verstehen, wie die Zusammenfassung gestaltet werden soll und wie detailliert sie sein muss. _„Bitte fasse das Top-Verkaufsprodukt für jeden Store und jeden Monat zusammen.“_ |
 
 > [!NOTE]
 > **Gestaltete Eingabeaufforderung:**
 >
-> _Wir suchen nach den meistverkauften Produkten von Mai bis August, um unsere Marketingstrategie für das nächste Jahr festzulegen. Bitte hebe das meistverkaufte Produkt Monat für Monat hervor._
-
-[![Screenshot der Ergebnisse des mit Copilot in Excel erstellten Prompts.](../media/copilot-results-excel.png)](../media/copilot-results-excel.png#lightbox)
+> _Analysiere diese Tabelle in Excel. Wir suchen die meistverkauften Produkte von Mai bis August für den Verkauf von handwerklich hergestelltem Chai oder vorgefertigtem Chai. Bitte fasse das meistverkaufte Produkt für jeden Monat zusammen._
 
 Dieser Prompt gibt Copilot alles, was benötigt wird, um eine gute Antwort zu finden, einschließlich **Ziel**, **Kontext**, **Quelle** und **Erwartungen**.
 
@@ -57,4 +74,4 @@ Probieren Sie den finalen Prompt und andere mit Ihrer eigenen Excel-Tabelle aus.
 - Zeige die Gesamtsumme der Werbeverkäufe für jede Region im letzten Jahr an.
 
 > [!IMPORTANT]
-> Diese Funktion steht Kundschaft mit einer Copilot for Microsoft 365-Lizenz oder einer Copilot Pro-Lizenz zur Verfügung. Weitere Informationen zu Excel-Tabellen und deren Erstellung finden Sie unter [Erstellen einer Tabelle in Excel](https://support.microsoft.com/office/bf0ce08b-d012-42ec-8ecf-a2259c9faf3f). 
+> Diese Funktion steht Kundschaft mit einer Microsoft 365 Copilot-Lizenz oder Copilot Pro-Lizenz zur Verfügung. Weitere Informationen zu Excel-Tabellen und deren Erstellung finden Sie unter [Erstellen einer Tabelle in Excel](https://support.microsoft.com/office/bf0ce08b-d012-42ec-8ecf-a2259c9faf3f).

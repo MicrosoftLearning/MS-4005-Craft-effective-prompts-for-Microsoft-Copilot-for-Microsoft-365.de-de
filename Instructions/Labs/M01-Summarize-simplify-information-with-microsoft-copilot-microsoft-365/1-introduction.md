@@ -1,3 +1,4 @@
+# Einführung
 
 In diesem Modul erfahren Sie, wie Sie effektive, kontextbezogene Prompts für Microsoft 365 Copilot erstellen, um Informationen in Microsoft 365-Apps **zusammenzufassen**. Wenn Sie Ihre Prompting-Fähigkeiten für Copilot verbessern möchten, vermittelt Ihnen dieses Modul das Wissen und die Techniken, um Prompts zu erstellen, die genaue und hilfreiche Ergebnisse aus Microsoft 365 Copilot liefern.
 

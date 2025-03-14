@@ -1,12 +1,14 @@
-Microsoft 365 Copilot in PowerPoint ist eine KI-gesteuerte Funktion, mit der Sie Folien erstellen, gestalten und formatieren können.  Sie können eingeben, was Sie mit der Präsentation vermitteln möchten und Copilot hilft Ihnen, diese Ziele umzusetzen. 
+# Erstellen neuer Folien, Agenden und Aufgabenlisten mit Microsoft 365 Copilot in PowerPoint
+
+Microsoft 365 Copilot in PowerPoint ist eine KI-gesteuerte Funktion, mit der Sie Folien erstellen, gestalten und formatieren können.  Sie können eingeben, was Sie mit der Präsentation vermitteln möchten und Copilot hilft Ihnen, diese Ziele umzusetzen.
 
 Mit Copilot können Sie diese anfänglich leere Folie leicht füllen und finden schnell die richtige Richtung. Um Copilot in PowerPoint zu verwenden, können Sie den **Copilot**-Bereich über das Copilot-Symbol auf der Registerkarte **Startseite** des Menübands öffnen.
 
-![Screenshot des Copilot-Symbols im PowerPoint-Menüband.](../media/copilot-ribbon-powerpoint.png)
+![Screenshot des Copilot-Symbols im PowerPoint-Menüband.](../media/create_copilot-ribbon-powerpoint.png)
 
 Im Bereich "Copilot" können Sie mit dem Erstellen einer neuen Präsentation aus einem Word-Dokument oder zu einem gewünschten Thema beginnen. Im Beispiel beginnen wir mit einer grundlegenden Anfrage, eine Präsentation zu einem Thema zu erstellen, und fügen weitere Elemente hinzu, um den Prompt zu verbessern.
 
-![Screenshot des Copilot-Bereichs in PowerPoint beim ersten Öffnen.](../media/copilot-pane-powerpoint.png)
+![Screenshot des Copilot-Bereichs in PowerPoint beim ersten Öffnen.](../media/create_copilot-pane-powerpoint.png)
 
 > [!TIP]
 > Derzeit kann Copilot in PowerPoint nur Präsentationen aus Word-Dokumenten erstellen.
@@ -26,17 +28,15 @@ In diesem einfachen Prompt beginnen Sie mit dem grundlegenden **Ziel**, _eine ne
 
 | Element | Beispiel |
 | :------ | :------- |
-| Einfacher Prompt: <br>Beginnen Sie mit einem **Ziel** | **_Erstelle eine neue PowerPoint-Präsentation._** |
-| Guter Prompt: <br>**Kontext** hinzufügen | Durch Hinzufügen von **Kontext** kann Copilot besser verstehen, welche Art von Dokument Sie erstellen möchten und wofür es verwendet werden soll.<br><br>„_Wir wollen potenzieller Kundschaft die Funktionen und Vorteile des Produkts präsentieren._“ |
-| Besserer Prompt: <br>**Quelle(n)** angeben | Das Hinzufügen von **Quellen** kann Copilot dabei helfen, nach bestimmten Informationen zu suchen.<br><br>„_... unter Verwendung der neuesten Erkenntnisse aus **/Market Trend Report-Protein-Shake.docx**._“ |
-| Besserer Prompt: <br>Klare **Erwartungen** festlegen | Schließlich kann Copilot beim Hinzufügen von **Erwartungen** helfen, zu verstehen, wie das Dokument geschrieben und formatiert werden soll.<br><br>„_Bitte füge eine Übersicht über das Produkt, seine wichtigsten Merkmale und Vorteile sowie einen Vergleich mit ähnlichen Produkten auf dem Markt bei. Bitte verwende eine einfache Sprache._“ |
+| **Grundlegender Prompt:** Beginnen Sie mit einem **Ziel** | **_Erstelle eine neue PowerPoint-Präsentation._** |
+| **Guter Prompt:** Hinzufügen von **Kontext** | Durch Hinzufügen von **Kontext** kann Copilot besser verstehen, welche Art von Dokument Sie erstellen möchten und wofür es verwendet werden soll. _„Wir wollen potenzieller Kundschaft die Funktionen und Vorteile des Produkts präsentieren.“_ |
+| **Besserer Prompt:** Angabe von **Quelle(n)** | Durch das Hinzufügen von **Quellen** kann Copilot wissen, wo nach bestimmten Informationen gesucht werden soll. _„... unter Verwendung der neuesten Erkenntnisse aus **/Market Trend Report-Protein-Shake.docx.“**_ |
+| **Bester Prompt:** Festlegen von **Erwartungen** | Schließlich kann Copilot beim Hinzufügen von **Erwartungen** helfen, zu verstehen, wie das Dokument geschrieben und formatiert werden soll. _„Bitte füge eine Übersicht über das Produkt, seine wichtigsten Merkmale und Vorteile sowie einen Vergleich mit ähnlichen Produkten auf dem Markt bei. Bitte verwende eine einfache Sprache.“_ |
 
 > [!NOTE]
 > **Gestaltete Eingabeaufforderung:**
 >
 > _Erstelle eine neue PowerPoint-Präsentation unter Verwendung der neuesten Erkenntnisse aus **/Market Trend Report- Protein shake.docx**. Wir wollen potenzieller Kundschaft die Funktionen und Vorteile des Produkts präsentieren. Bitte füge eine Übersicht über das Produkt, seine wichtigsten Merkmale und Vorteile sowie einen Vergleich mit ähnlichen Produkten auf dem Markt bei. Bitte verwende eine einfache Sprache._
-
-[![Screenshot der erstellten Prompt-Ergebnisse anhand des Beispieldokuments mit Copilot in PowerPoint.](../media/copilot-draft-results-powerpoint.png)](../media/copilot-draft-results-powerpoint.png#lightbox)
 
 Mit dem **Ziel**, dem **Kontext**, der **Quelle** und den **Erwartungen** hat Copilot alles, was für eine großartige Antwort benötigt wird.
 
@@ -62,4 +62,4 @@ Beim Erstellen einer Präsentation versucht Copilot, die Bilder in Ihr Word-Doku
 Wenn Ihre Organisation eine Standardvorlage verwendet, beginnen Sie mit dieser Datei, bevor Sie eine Präsentation mit Copilot erstellen. Wenn Sie mit einer Vorlage beginnen, weiß Copilot, dass Sie das Thema und das Design der Präsentation beibehalten möchten. Copilot verwendet vorhandene Layouts, um eine Präsentation für Sie zu erstellen.
 
 > [!IMPORTANT]
-> Diese Funktion steht Kundschaft mit einer Copilot for Microsoft 365-Lizenz oder einer Copilot Pro-Lizenz zur Verfügung. Weitere Informationen finden Sie unter [Erstellen einer Präsentation aus einer Datei mit Copilot](https://support.microsoft.com/office/create-a-new-presentation-3222ee03-f5a4-4d27-8642-9c387ab4854d).
+> Diese Funktion steht Kundschaft mit einer Microsoft 365 Copilot-Lizenz oder Copilot Pro-Lizenz zur Verfügung. Weitere Informationen finden Sie unter [Erstellen einer Präsentation aus einer Datei mit Copilot](https://support.microsoft.com/office/create-a-new-presentation-3222ee03-f5a4-4d27-8642-9c387ab4854d).
