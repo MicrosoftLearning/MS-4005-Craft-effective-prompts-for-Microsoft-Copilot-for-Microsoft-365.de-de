@@ -10,11 +10,14 @@ In diesem Modul erstellen wir Prompts für Microsoft 365 Copilot, die auf die fo
 
 ## Hochladen von Dateien in OneDrive
 
+> [!IMPORTANT]
+> Sie können diesen Schritt überspringen, wenn Sie bereits alle Dateien aus dem Ordner **"C:\ResourceFiles"** in **OneDrive** hochgeladen haben. 
+
 Führen Sie die folgenden Schritte aus, um alle erforderlichen Dateien auf **OneDrive** hochzuladen:
 
 1. Melden Sie sich mit dem Kennwort `Pa55w.rd` beim virtuellen Computer an, der von Ihrem Mandanten-Anbieter bereitgestellt wird, und zwar als lokales **Administrator**-Konto.
 2. Wählen Sie in der Windows-Taskleiste **Microsoft Edge** aus.
-3. Geben Sie in der Adressleiste `https://www.office.com` ein.
+3. Geben Sie in der Adressleiste `https://onedrive.live.com/login` ein.
 4. Wählen Sie unter **Willkommen bei Microsoft 365** die Option **Anmelden** aus.
 5. Geben Sie beim **Sign-in Prompt** `userx@yourtenant.onmicrosoft.com` ein (Benutzername und Mandant von Ihrem Mandanten bereitgestellt) und wählen Sie **Weiter**.
 
@@ -22,13 +25,14 @@ Führen Sie die folgenden Schritte aus, um alle erforderlichen Dateien auf **One
 
 6. Geben Sie auf dem Bildschirm **Kennwort eingeben** das Kennwort (vom Mandanten-Anbieter) für das Benutzerkonto ein und wählen Sie dann **Anmelden** aus.
 7. Wenn Sie aufgefordert werden, **Angemeldet zu bleiben**, wählen Sie **Dies nicht mehr anzeigen** und dann **Ja**.
-8. In **Microsoft 365** wählen Sie **Apps**.
-9. Wählen Sie unter **Apps** **OneDrive** aus.
-10. Wählen Sie in **OneDrive** in der oberen linken Ecke **+** (neu hinzufügen) > **Datei hochladen**.
-11. Wählen Sie im **Datei-Explorer** **Dieser PC** > **Lokaler Datenträger (C:)** und öffnen Sie den Ordner **ResourceFiles**.
-12. Markieren Sie alle Dateien im Ordner **ResourceFiles** und wählen Sie dann **Öffnen**, um sie auf **OneDrive** hochzuladen.
-13. Wenn der Upload abgeschlossen ist, sollten Sie unten in der Mitte des Bildschirms **29 Elemente in Meine Dateien hochgeladen** sehen.
-14. Lassen Sie **Edge** geöffnet und gehen Sie zur nächsten Aufgabe über.
+8. Wählen Sie in **OneDrive** in der oberen linken Ecke **+** (neu hinzufügen) > **Datei hochladen**.
+
+    [![Screenshot des Hinzufügens einer neuen Datei](../media/add_new.png)](../media/add_new.png#lightbox)
+
+9. Wählen Sie im **Datei-Explorer** **Dieser PC** > **Lokaler Datenträger (C:)** und öffnen Sie den Ordner **ResourceFiles**.
+10. Markieren Sie alle Dateien im Ordner **ResourceFiles** und wählen Sie dann **Öffnen**, um sie auf **OneDrive** hochzuladen.
+11. Wenn der Upload abgeschlossen ist, sollten Sie unten in der Mitte des Bildschirms **29 Elemente in Meine Dateien hochgeladen** sehen.
+12. Lassen Sie **Edge** geöffnet und gehen Sie zur nächsten Aufgabe über.
 
 ### Verweisen auf Dateien
 
